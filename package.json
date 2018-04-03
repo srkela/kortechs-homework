@@ -1,0 +1,26 @@
+{
+  "name": "kortechs-homework",
+  "version": "1.0.0",
+  "description": "Job application JS DEV task",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "~1.18.2",
+    "express": "~4.16.3",
+    "morgan": "~1.9.0",
+    "t9-rest-api": "^1.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srkela"
+  },
+  "author": "Srdjan",
+  "license": "UNLICENCED",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
